@@ -38,6 +38,18 @@ The Stock Trading Platform is a full-stack web application designed for seamless
 
 **•	Charting Library:** Chart.js / Recharts for data visualization
 
+**🔥 Future Enhancements:**
+
+**•	Paper Trading:** Allow users to simulate trades with virtual money.
+
+**•	AI-Powered Predictions:** Integrate AI models for stock trend predictions.
+
+**•	Advanced Charting Tools:** Enhance data visualization for deeper insights.
+
+**•	Multi-Currency Support:** Enable trading in multiple currencies.
+
+**•	Push Notifications:** Real-time alerts for stock price changes.
+
 ![trading_1](https://github.com/user-attachments/assets/0637afb2-a5bc-47c2-b8e5-97c887e4cf4a)
 ![trading_2](https://github.com/user-attachments/assets/4c4e2cb7-fe02-4dd0-b097-dc4278eb62d8)
 ![trading_3](https://github.com/user-attachments/assets/9a736402-aa15-44bf-a9fb-945be30be97a)
